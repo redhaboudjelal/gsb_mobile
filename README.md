@@ -1,2 +1,2 @@
-# gsb_mobile
-gsb_mobile
+identifiant : visiteur@visiteur.com
+mdp : visiteur
